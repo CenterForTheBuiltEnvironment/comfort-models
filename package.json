@@ -1,0 +1,19 @@
+{
+  "name": "comfort-models",
+  "version": "1.0.0",
+  "description": "A node package with the thermal comfort models used in various CBE tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CenterForTheBuiltEnvironment/comfort-models.git"
+  },
+  "author": "Tyler Hoyt",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CenterForTheBuiltEnvironment/comfort-models/issues"
+  },
+  "homepage": "https://github.com/CenterForTheBuiltEnvironment/comfort-models#readme"
+}
